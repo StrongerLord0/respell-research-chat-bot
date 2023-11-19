@@ -1,0 +1,7 @@
+# .gitignore
+
+# Add folders or files you want to ignore
+node_modules/
+.env
+.next/
+out/
